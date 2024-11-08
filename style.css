@@ -1,3 +1,10 @@
 table, th, td {
-    border: 2px solid rgba(0, 0, 0, 0.644);
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+  th, td {
+    padding: 15px;
+  }
+  th {
+    text-align: left;
   }
